@@ -2,6 +2,9 @@
   <b>Awesome Hacker Search Engines</b> <img src="https://raw.githubusercontent.com/edoardottt/images/main/awesome-hacker-search-engines/awesome.svg"/>
 </h1>
 
+## 黑客搜索引擎 | Awesome Hacker Search Engines
+**在渗透测试、漏洞评估、红/蓝团队工作、漏洞赏金等过程中有用的精选搜索引擎列表**
+
 <p align="center">
 A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red/Blue Team operations, Bug Bounty and more
 </p>
